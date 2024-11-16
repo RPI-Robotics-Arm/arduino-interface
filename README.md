@@ -1,5 +1,5 @@
 # RPI Robotics Club Arm
-**Interface (C++) repository**
+**Arduino Interface (C++) repository**
 
 This README will be fully populated in the future.
 
