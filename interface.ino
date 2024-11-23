@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
-#include "Networking.h"
-#include "SerialCommands.h"
+#include "networking.h"
+#include "serialCommands.h"
 
 using namespace Tracker;
 

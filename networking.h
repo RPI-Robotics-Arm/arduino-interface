@@ -3,7 +3,7 @@
 #define _NETWORKING_H_
 
 #include <WiFi.h>
-#include "Logger.h"
+#include "logger.h"
 
 namespace Tracker
 {

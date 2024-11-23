@@ -4,7 +4,7 @@
 
 #include <Arduino.h>
 #include <SPIFFS.h>
-#include "Logger.h" // Include the logger header
+#include "logger.h" // Include the logger header
 
 namespace Tracker
 {
